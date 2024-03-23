@@ -1,0 +1,30 @@
+.O-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.order-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.order-container p {
+    margin: 0;
+}
+
+.order-details {
+    margin-top: 10px;
+}
+
+.order-details ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.order-details ul li {
+    margin-bottom: 5px;
+}
+
